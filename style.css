@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    }
+  #firstp{
+    font-size: 60px;
+  }
+  img{
+   height:250px;
+   width:250px;
+  }
+  #images
+  {
+    border-style:solid;
+    border-color:#689F38;
+    border:1px;
+    border-radius:0
+  }
